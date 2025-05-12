@@ -179,7 +179,7 @@ elif st.session_state.page == "projects":
         > *"In an age of noise, Blaze Media delivers the signal."*
         """)
 
-        st.markdown("[👉 Visit Quantora News](https://quantoranews.streamlit.app/)")
+        st.markdown("[👉 Visit Blazemedia](https://blazemedia.streamlit.app/)")
 
     st.markdown('</div>', unsafe_allow_html=True)
     st.markdown("---")
