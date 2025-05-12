@@ -156,6 +156,31 @@ elif st.session_state.page == "projects":
         """)
         st.markdown("[👉 Visit Quantora News](https://quantoranews.streamlit.app/)")
 
+        st.header("📰 Blaze Media")
+        st.markdown("""
+        Blaze Media is Quantora Foundation’s cutting-edge news platform, designed to deliver smart, independent, and personalized journalism.
+
+        **Key Features:**
+        - **🧠 AI-powered news summaries**  
+          Instantly understand global events with concise, intelligent summaries.
+
+        - **✅ Fact-checked, unbiased content**  
+          Every story is verified and free from political or corporate bias.
+
+        - **📰 Personalized news feed**  
+          Curated just for you — get the stories that truly matter.
+
+        - **📢 Voice & video storytelling**  
+          News comes alive with audio-visual formats for a new generation.
+
+        - **🧭 Transparent sources**  
+          Know exactly where your information is coming from.
+
+        > *"In an age of noise, Blaze Media delivers the signal."*
+        """)
+
+        st.markdown("[👉 Visit Quantora News](https://quantoranews.streamlit.app/)")
+
     st.markdown('</div>', unsafe_allow_html=True)
     st.markdown("---")
 
@@ -193,6 +218,7 @@ elif st.session_state.page == "about":
     - Quantora Social Media
     - Quantora News
     - Firebox Search
+    - Blaze MediaPlayer
     
     He also has a channel - Coding Adventure With Kushagra
 
